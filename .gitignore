@@ -1,2 +1,4 @@
 .idea/
 __pycache__/
+.gitignore
+T10.spec
